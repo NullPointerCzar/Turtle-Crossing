@@ -22,7 +22,7 @@ This is a simple turtle crossing game built using Python and the Turtle graphics
 Ensure you have Python 3 installed, then clone this repository:
 
 ```bash
-git clone https://github.com/your-username/Turtle-Crossing.git
+git clone https://github.com/NullPointerCzar/Turtle-Crossing.git
 cd Turtle-Crossing
 ```
 Run the game:
